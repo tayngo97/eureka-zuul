@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/employee/employee.iml" filepath="$PROJECT_DIR$/employee/employee.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/eureka-zuul-proxy.iml" filepath="$PROJECT_DIR$/.idea/eureka-zuul-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-proxy/zuul-proxy.iml" filepath="$PROJECT_DIR$/zuul-proxy/zuul-proxy.iml" />
     </modules>
   </component>
 </project>
